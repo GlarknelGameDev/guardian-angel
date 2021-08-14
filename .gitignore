@@ -1,3 +1,5 @@
-DerivedDataCache/
-Intermediate/
-Saved/
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
+.exe
