@@ -1,3 +1,3 @@
 # Rules
 Texture size: 16x16
-Sprite Size: max 32x32
+Sprite Size: 32x32
