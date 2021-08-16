@@ -1,6 +1,3 @@
 # Rules
-Texture size: 16x16
-Sprite Size: 32x32
-
-# TODO
-Fix sword and gun attack animations.
+Normal texture size: 16x16
+Sprite texture Size: 32x32
